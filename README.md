@@ -15,4 +15,4 @@ Feedback: Once the user has finished speaking, their transcribed answer is sent 
 
 In essence, this project provides an interactive and conversational interview practice experience by using powerful AI services to simulate a real-world interview.
 
-Let me know if you would like to make any changes to the project, such as changing the AI model used or adding new features.
+
